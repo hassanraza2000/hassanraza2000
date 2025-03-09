@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Hassan Raza</h1>
-<h3 align="center">A passionate frontend developer from Pakistan</h3>
+<h3 align="center">A passionate software developer from Pakistan</h3>
 
 <img align="right" alt="coding" width="550" src="https://th.bing.com/th/id/OIP.wNGxHlTCsH9zU90WDouoDQHaFj?rs=1&pid=ImgDetMain">
 
