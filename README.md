@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hassanraza2000&label=Profile%20views&color=0e75b6&style=flat" alt="hassanraza2000" /> </p>
 
-- 🌱 I’m currently learning **Postgres and Docker**
+- 🌱 I’m currently learning **Springboot, Postgres and Docker**
 
 - 📝 I occasionally write articles on [https://www.techteresa.blogspot.com](https://www.techteresa.blogspot.com)
 
