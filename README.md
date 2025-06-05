@@ -12,7 +12,7 @@
 
 - 💬 Ask me about **Java, Javascript & React.js**
 
-- ⚡ Fun fact **I am also a Content writer**
+- ⚡ Fun fact **I am also a former Content writer**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
